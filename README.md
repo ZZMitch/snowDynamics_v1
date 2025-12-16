@@ -1,5 +1,5 @@
 # snowDynamics_v1
-Utility Code from version 1 of my snowDynamics processor, along with Jupyter Notebooks created while working on "Wide-area 30-m Resolution Snow Dynamics from Harmonized Landsat Sentinel-2".
+Utility Code from version 1 of my snowDynamics processor, along with Jupyter Notebooks created while working on "Monitoring snow cover dynamics at 30-m resolution in higher latitude regions using Harmonized Landsat Sentinel-2".
 
 If you have any questions about the paper, code, or data: mitchellthurston.bonney@nrcan-rncan.gc.ca 
 
