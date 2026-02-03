@@ -19,10 +19,10 @@ The Canada wordmark and related graphics associated with this distribution are p
 
 ___
 
-# neigeDynamique_v1
-Code utilitaire de la version 1 de mon processeur neigeDynamique, ainsi que des carnets Jupyter créés lors des travaux sur « [Monitoring snow cover dynamics at 30‑m resolution in higher latitude regions using Harmonized Landsat Sentinel‑2](https://authors.elsevier.com/a/1mXdH3I9x1yPV8) ». La version 1.1 a été utilisée pour l’article final et pour les produits publiés.
+# Dynamique de la neige (snowDynamics_v1)
+Code utilitaire de la version 1 de mon processeur snowDynamics, ainsi que des carnets Jupyter créés lors des travaux sur « [Monitoring snow cover dynamics at 30‑m resolution in higher latitude regions using Harmonized Landsat Sentinel‑2](https://authors.elsevier.com/a/1mXdH3I9x1yPV8) ». La version 1.1 a été utilisée pour l’article final et pour les produits publiés.
 
-Ce code génère des produits de dynamique de la neige (p. ex., date de début, date de fin, durée) pour chaque année nivale ainsi que sur des périodes pluriannuelles, à une résolution spatiale de 30 m, pour tout le Canada. Les produits annuels sont accessibles sous forme de COGs / STACs sur GEO.ca: https://app.geo.ca/en-ca/map-browser/record/1ed7fdec-9a50-4fe9-aa16-78f9ee3f05bc
+Ce code génère des produits de la dynamique de la neige (p. ex., date de début, date de fin, durée) pour chaque année nivale, ainsi que sur des périodes pluriannuelles à une résolution spatiale de 30 m, pour tout le Canada. Les produits annuels sont accessibles sous format COGs / STACs sur GEO.ca: https://app.geo.ca/en-ca/map-browser/record/1ed7fdec-9a50-4fe9-aa16-78f9ee3f05bc
 
 Le traitement est décrit en détail dans l’article publié ainsi que dans le [guide d'utilisation](https://ftp.maps.canada.ca/pub/nrcan_rncan/Remote-sensing_Teledetection/snow_dynamics_30m/HLS%20Snow%20Dynamics%20V1_1%202.pdf).
 
