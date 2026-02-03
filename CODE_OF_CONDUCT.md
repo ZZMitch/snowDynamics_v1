@@ -1,6 +1,6 @@
 # Contributor Covenant Code of Conduct for the snowDynamics project
 
-([Français](#code-de-conduite-pour-le-projet-nom-du-projet))
+([Français](#code-de-conduite-pour-le-projet-neigeDynamique))
 
 Contributors to repositories hosted in snowDynamics are expected to follow the Contributor Covenant Code of Conduct, and those working within Government are also expected to follow the Values and Ethics Code for the Public Sector
 
