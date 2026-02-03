@@ -20,7 +20,13 @@ The Canada wordmark and related graphics associated with this distribution are p
 ___
 
 # neigeDynamique_v1
-French text here...
+Code utilitaire de la version 1 de mon processeur neigeDynamique, ainsi que des carnets Jupyter créés lors des travaux sur « [Monitoring snow cover dynamics at 30‑m resolution in higher latitude regions using Harmonized Landsat Sentinel‑2](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fkwnsfk27.r.eu-west-1.awstrack.me%2FL0%2Fhttps%3A%252F%252Fauthors.elsevier.com%252Fa%252F1mXdH3I9x1yPV8%2F1%2F0102019c14777013-af99b1a7-708c-4460-80b3-8e6aeef21505-000000%2FQfIGEnh4V3gg7OjAZgmF-Kwm_Mk%3D463&data=05%7C02%7Cmitchellthurston.bonney%40nrcan-rncan.gc.ca%7C6faadaa7f2a44eefc5e408de60d5721d%7C05c95b3390ca49d5b644288b930b912b%7C0%7C0%7C639054667379438746%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=z8X3S5SfqAxye%2FTaSL0LiDL1jovLhNT4P%2FWYkMqvvFI%3D&reserved=0) ». La version 1.1 a été utilisée pour l’article final et pour les produits publiés.
+
+Ce code génère des produits de dynamique de la neige (p. ex., date de début, date de fin, durée) pour chaque année nivale ainsi que sur des périodes pluriannuelles, à une résolution spatiale de 30 m, pour l’ensemble du Canada. Tous les produits sont accessibles sous forme de COGs / STACs sur GEO.ca: https://app.geo.ca/en-ca/map-browser/record/1ed7fdec-9a50-4fe9-aa16-78f9ee3f05bc
+
+Le traitement est décrit en détail dans l’article publié ainsi que dans le [guide de l’utilisateur](https://ftp.maps.canada.ca/pub/nrcan_rncan/Remote-sensing_Teledetection/snow_dynamics_30m/HLS%20Snow%20Dynamics%20V1_1%202.pdf).
+
+Si vous avez des questions concernant l’article, le code ou les données: mitchellthurston.bonney@nrcan-rncan.gc.ca 
 
 **Comment contribuer**
 
