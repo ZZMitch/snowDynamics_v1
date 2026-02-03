@@ -9,7 +9,7 @@ If you have any questions about the paper, code, or data: mitchellthurston.bonne
 
 **How to Contribute**
 
-See CONTRIBUTING.md (link TBD)
+See [CONTRIBUTING.md](https://github.com/ZZMitch/snowDynamics_v1/blob/main/CONTRIBUTING.md)
 
 **License**
 
@@ -30,7 +30,7 @@ Si vous avez des questions concernant l’article, le code ou les données: mitc
 
 **Comment contribuer**
 
-Voir CONTRIBUTING.md (link TBD)
+Voir [CONTRIBUTING.md](https://github.com/ZZMitch/snowDynamics_v1/blob/main/CONTRIBUTING.md)
 
 **License**
 
