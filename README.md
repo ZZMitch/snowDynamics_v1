@@ -24,7 +24,7 @@ Code utilitaire de la version 1 de mon processeur neigeDynamique, ainsi que des 
 
 Ce code génère des produits de dynamique de la neige (p. ex., date de début, date de fin, durée) pour chaque année nivale ainsi que sur des périodes pluriannuelles, à une résolution spatiale de 30 m, pour tout le Canada. Les produits annuels sont accessibles sous forme de COGs / STACs sur GEO.ca: https://app.geo.ca/en-ca/map-browser/record/1ed7fdec-9a50-4fe9-aa16-78f9ee3f05bc
 
-Le traitement est décrit en détail dans l’article publié ainsi que dans le [guide de l’utilisateur](https://ftp.maps.canada.ca/pub/nrcan_rncan/Remote-sensing_Teledetection/snow_dynamics_30m/HLS%20Snow%20Dynamics%20V1_1%202.pdf).
+Le traitement est décrit en détail dans l’article publié ainsi que dans le [guide d'utilisation](https://ftp.maps.canada.ca/pub/nrcan_rncan/Remote-sensing_Teledetection/snow_dynamics_30m/HLS%20Snow%20Dynamics%20V1_1%202.pdf).
 
 Si vous avez des questions concernant l’article, le code ou les données: mitchellthurston.bonney@nrcan-rncan.gc.ca 
 
